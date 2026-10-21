@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kobe R. Tenorio</h1>
 <h3 align="center">A passionate programmer from Philippines.</h3>
 
-- 🌱 I’m currently learning **Java, Python, MySQL**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **kobetenorio15@gmail.com**
 
